@@ -19,7 +19,7 @@ Today I Learned
 ### 2.github공부
 
 
-##2020.01.08
+## 2020.01.08
 
 ### 1day 1commit
 
