@@ -76,6 +76,12 @@
 
 - 横向切割数据（按样本分割）
 
+### 论文
+- Towards Federated Learning at Scale: System Design
+- Secure Federated Transfer Learning
+- Federated Reinforcement Learning
+- SecureBoost: A Lossless Federated Learning Framework
+- Federated Machine Learning: Concept and Applications (2019.10.31更新)
   
   
     
